@@ -4,7 +4,7 @@
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT211212
  *---------------------------------------------------------------
- PAGE
+ PAGE 56
  *
  * You can load different configurations depending on your
  * current environment. Setting the environment also influences
@@ -18,7 +18,7 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  *
- */PIJU
+ */
 	define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------
