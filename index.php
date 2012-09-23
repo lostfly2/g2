@@ -4,7 +4,6 @@
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT211212
  *---------------------------------------------------------------
- PAGE 56
  *
  * You can load different configurations depending on your
  * current environment. Setting the environment also influences
