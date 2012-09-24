@@ -45,7 +45,7 @@ class TagManager
 	
 	public static $context;
 	
-	public static $tag_prefix = 'ion';
+	public static $tag_prefix = 'g2';
 
 	public static $view = '';
 
